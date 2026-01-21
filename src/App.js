@@ -1,11 +1,12 @@
 import './App.css';
+import Homepage from './pages/Homepage';
 
 
 
 function App() {
   return (
-    <div className="App">
-    <h1>Image Gallery</h1>
+    <div className="morePicture">
+    <Homepage />
       
     </div>
   );
